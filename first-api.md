@@ -12,14 +12,3 @@
   - Dedicated "Gemini Academic Research" section, showcasing attention to detail and addressing diverse perspectives.
 - **Potential Improvement:** The "Safety" section could be expanded into a standalone section, given the topic's importance and varied interpretations.
 
-**Example 2: Coinbase SDK Documentation - [https://docs.cdp.coinbase.com/get-started/docs/use-sdks](https://docs.cdp.coinbase.com/get-started/docs/use-sdks)**
-
-- **Purpose:** To provide developers with the essentials for quickly learning and using the Coinbase SDK.
-- **Audience:** Developers, segmented into those building apps and those using wallets.
-- **Key Features:**
-  - Clear distinction between backend and frontend installation instructions.
-  - Concise, action-oriented language in blurbs, using short sentences starting with verbs.
-  - Emphasis on a Quickstart section for immediate results.
-- **Potential Improvements:**
-  - Include a troubleshooting section to address potential developer issues.
-  - Consider incorporating non-business messaging, similar to Gemini's Academic Research section, to broaden appeal.
