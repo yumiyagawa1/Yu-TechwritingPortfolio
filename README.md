@@ -1,6 +1,9 @@
 # Yu-TechwritingPortfolio
 
-My technical writing portfolio showcases a range of work with a goal of empowering users with clear, effective documentation. Examples are separated by **USER PERSONA'S** to demonstrate my understanding of user needs, **REVISED DOCUMENTATION** that highlights my ability to improve existing documentation, and **API DOCUMENTATION** that communicates clearly and precisely to developers. 
+My technical writing portfolio showcases a range of work with a goal of empowering users with clear, effective documentation. Examples are separated by: 
+- **USER PERSONAS** to demonstrate my understanding of user needs
+- **REVISED DOCUMENTATION** that highlights my ability to improve existing documentation
+- **API DOCUMENTATION** that communicates clearly and precisely to developers
 
 The **objective** of this portfolio is to highlight the practical value of my technical writing and provide clear examples of my ability to create effective documentation.
 
