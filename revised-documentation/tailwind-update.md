@@ -11,7 +11,8 @@ The **goal** of this documentation is to improve the user experience, demonstrat
 
 **Link to the Tailwind CSS documentation:** [https://tailwindcss.com/docs/installation/play-cdn](https://tailwindcss.com/docs/installation/play-cdn)
 
-**Before** <br>
+**Current documentation:** 
+
 Use the Play CDN to try Tailwind right in the browser without any build step. The Play CDN is designed for development purposes only, and is not intended for production.
 
 1: Add the Play CDN script to your HTML
@@ -20,7 +21,7 @@ Add the Play CDN script tag to the <head> of your HTML file, and start using Tai
 2: Try adding some custom CSS
 Use type="text/tailwindcss" to add custom CSS that supports all of Tailwind's CSS features.
 
-**After**
+**Revised documentation:**
 
 To try Tailwind right in the browser without any build step, use the Play CDN. The Play CDN is designed for development purposes only, and is not intended for production.
 
