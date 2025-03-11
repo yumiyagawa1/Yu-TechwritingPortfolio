@@ -9,3 +9,5 @@ The **scope** of these examples include improvements in organization, structure,
 The **customer pain points** I seek to address include difficulty in understanding incomplete or unclear API documentation and the challenges of navigating unstructured documentation.
 
 My **motivation** to improve existing API documentation include reducing developer onboard time, increasing API adoption, and minimizing support requests.
+
+**User feedback**: The improvements showcased in this section reflect are shaped by developer feedback. To further enhance these revisions, please reach out with any additional feedback or points of confusion.
