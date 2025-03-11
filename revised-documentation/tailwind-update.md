@@ -21,6 +21,8 @@ Add the Play CDN script tag to the <head> of your HTML file, and start using Tai
 2: Try adding some custom CSS
 Use type="text/tailwindcss" to add custom CSS that supports all of Tailwind's CSS features.
 
+***
+
 **Revised documentation:**
 
 To try Tailwind right in the browser without any build step, use the Play CDN. The Play CDN is designed for development purposes only, and is not intended for production.
@@ -39,4 +41,4 @@ To add custom CSS that supports all of Tailwind’s CSS features, use type=“te
 - Place conditions before instructions.
 - Start section headlines with imperative verbs (e.g., "Add," "Apply"). I also removed the word "try" from the headings as it is a weak verb.
 
- These changes aim to provide a more streamlined and understandable installation process for Tailwind CSS users. By incorporating user feedback, I hope to continue to improve the documentation's overall effectiveness.
+These changes aim to provide a clearer installation process for Tailwind CSS users. 
