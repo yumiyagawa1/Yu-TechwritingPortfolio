@@ -9,3 +9,5 @@ The **scope** includes creating a wide range of user personas that are relevat t
 The **customer pain points** include a lack of understanding customer needs, developing products that do not meet user expectations, and increased support requests due to usability issues.
 
 My **motivations** are to improve the effectiveness of technical documentation while providing a clear and consistent understanding of target customers. 
+
+**User feedback**: These user personas were developed with a strong emphasis on incorporating user feedback and research. To further refine these personas, please reach out with any additional feedback or insights.
