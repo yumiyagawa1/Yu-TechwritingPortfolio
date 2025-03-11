@@ -8,3 +8,4 @@ The **scope** of this portfolio showcases my ability to improve upon existing te
 
 My approach to documentation includes a strong emphasis on user feedback. In order to continuously improve upon my portfolio, please reach out with any feedback or points of confusion.
 
+**TOOLS:** Markdown, version control (Git/Github)
