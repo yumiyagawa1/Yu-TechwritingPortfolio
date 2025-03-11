@@ -9,3 +9,5 @@ The **scope** of the examples includes improving information architecture, namin
 **Customer pain points** I'm looking to address include frustration resulting from poor organization, confusion from vague language, and an inability to easily navigate a document.
 
 The **motivations** to improve existing documentation include improving user satisfaction and making documentation more accessible for a wider audience.
+
+**User feedback**: these revisions showcase an iterative process that incorporates user feedback. Please reach out with any feedback or points of confusion you may have.
