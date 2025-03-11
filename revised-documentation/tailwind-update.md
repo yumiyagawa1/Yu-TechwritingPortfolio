@@ -5,7 +5,7 @@ The following showcases improvements I've made to the existing official Tailwind
 
 The **goal** of this documentation is to improve the user experience, demonstrate style guide application, and enhance long-term maintainability. The **scope** specifically address the Play CDN installation section of the Tailwind CSS documentation. The **pain points** I am trying to resolve include a lack of clarity, structural inconsistencies, and improving information accessibility.
 
-**User feedback** this current documentation is a work in progress. If you've used the Tailwind CSS Play CDN or have suggestions for further improvements, please don't hesitate to suggest improvements.
+**User feedback** this current documentation is a work in progress. If you've used the Tailwind CSS Play CDN or have suggestions for further improvements, please don't hesitate to suggest revisions.
 
 ***
 
