@@ -11,4 +11,4 @@ The **scope** of this portfolio is to improve upon existing technical documentat
 
 My approach to documentation includes a strong emphasis on user feedback. In order to continuously improve upon my portfolio, please reach out with any feedback or points of confusion.
 
-**Tools:** Markdown, version control (Git/Github)
+**Tools:** Markdown, version control (Git/Github), IDE (Visual Studio Code)
