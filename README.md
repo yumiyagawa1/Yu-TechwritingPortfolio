@@ -1,4 +1,4 @@
-# Yu-TechwritingPortfolio
+# Yu's Technical Writing Portfolio
 
 My technical writing portfolio showcases a range of work with a goal of empowering users with clear, effective documentation. Examples are separated by: 
 - **USER PERSONAS** to demonstrate my understanding of user needs
