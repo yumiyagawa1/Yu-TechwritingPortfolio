@@ -8,8 +8,11 @@ The **goal** of this document is to demonstrate my ability to developing compreh
 ***
 
 **Name:** Sean
+
 **Current Role:** Digital Marketer at a Local Clothing Store
+
 **Description:** Sean is a creative individual responsible for the entire digital marketing strategy. He focuses on building authentic connections with his audience. He aims to use Google Analytics to better understand customer behavior and increase sales.
+
 **Goals:**
   - Help his company stand out in a competitive digital environment.
   - Become a data-driven marketer using analytics for informed campaigns.
